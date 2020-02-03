@@ -1,0 +1,7 @@
+﻿  commodity.cpp
+  main.cpp
+  trade.cpp
+F:\C++学习\VS_C++\Commodity_Distribution_System\trade.cpp(209,53): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+F:\C++学习\VS_C++\Commodity_Distribution_System\trade.cpp(209,37): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Commodity_Distribution_System.vcxproj -> F:\C++学习\VS_C++\Commodity_Distribution_System\x64\Debug\Commodity_Distribution_System.exe

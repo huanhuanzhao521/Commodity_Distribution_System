@@ -1,0 +1,4 @@
+ ════════════════════════════ 
+               ***** 商品信息 *****                       
+ ════════════════════════════ 
+ID:1	NAME:d	COST:0	VALUE:0	STOCK:0
